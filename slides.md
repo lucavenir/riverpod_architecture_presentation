@@ -41,6 +41,22 @@ src: ./pages/architecture/3_architettura.md
 src: ./pages/architecture/3.1_architettura2.md
 ---
 
+---
+src: ./pages/architecture/3.2_scheme.md
+---
+
+---
+src: ./pages/architecture/3.3_scheme_domain.md
+---
+
+---
+src: ./pages/architecture/3.4_scheme_presentation.md
+---
+
+---
+src: ./pages/riverpod_architecture/4_riverpod_architecture.md
+---
+
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
