@@ -46,11 +46,19 @@ src: ./pages/architecture/3.2_scheme.md
 ---
 
 ---
-src: ./pages/architecture/3.3_scheme_domain.md
+src: ./pages/architecture/3.3_today.md
 ---
 
 ---
 src: ./pages/architecture/3.4_scheme_presentation.md
+---
+
+---
+src: ./pages/architecture/3.5_scheme_domain.md
+---
+
+---
+src: ./pages/architecture/3.6_scheme_data.md
 ---
 
 ---
