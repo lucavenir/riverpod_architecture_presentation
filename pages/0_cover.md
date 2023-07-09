@@ -6,7 +6,7 @@ lineNumbers: true
 lines: true
 drawings:
   persist: false
-transition: fade
+transition: fade-out
 title: Flutter, Riverpod e Clean Architecture
 ---
 
